@@ -784,6 +784,14 @@
     "nom": "BIJOUX MPONGO",
     "table": "TABLE PAYS-BAS"
   },
+  "couple_danny": {
+  "nom": "COUPLE DANNY",
+  "table": "TABLE MAROC"
+},
+"florance": {
+  "nom": "FLORANCE",
+  "table": "TABLE MAROC"
+},
 
   "couple_henry_alamazani": {
     "nom": "COUPLE HENRY ALAMAZANI",
