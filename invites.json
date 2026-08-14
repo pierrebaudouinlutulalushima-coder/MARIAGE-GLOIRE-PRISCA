@@ -61,7 +61,12 @@
     "nom": "COUPLE GBENGE",
     "table": "TABLE SANTORIN"
   },
-
+  
+ "gbenge": {
+    "nom": "COUPLE MWANABUANA",
+    "table": "TABLE SANTORIN"
+  },
+  
   "diumu": {
     "nom": "COUPLE DIUMU",
     "table": "TABLE BALI"
