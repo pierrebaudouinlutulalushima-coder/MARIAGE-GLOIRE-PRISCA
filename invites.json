@@ -62,11 +62,6 @@
     "table": "TABLE SANTORIN"
   },
   
- "Couple_MWANABUANA ": {
-    "nom": "COUPLE MWANABUANA",
-    "table": "TABLE SANTORIN"
-  },
-  
   "diumu": {
     "nom": "COUPLE DIUMU",
     "table": "TABLE BALI"
@@ -825,5 +820,21 @@
   "benedicte": {
     "nom": "BENEDICTE",
     "table": "TABLE SUEDE"
-  }
+  },
+    "gloire_esemoti": {
+    "nom": "GLOIRE ESEMOTI",
+    "table": "TABLE XI"
+  },
+  "ben_lokumu": {
+    "nom": "BEN LOKUMU",
+    "table": "TABLE XI"
+  },
+  "kabisa_esther_elie_lokumu": {
+    "nom": "KABISA ESTHER ET ELIE LOKUMU",
+    "table": "TABLE XI"
+  },
+  "couple_mwanabuana": {
+  "nom": "COUPLE MWANABUANA",
+  "table": "TABLE SANTORIN"
+}
 }
