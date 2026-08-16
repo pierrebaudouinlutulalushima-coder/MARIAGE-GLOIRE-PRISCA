@@ -821,20 +821,20 @@
     "nom": "BENEDICTE",
     "table": "TABLE SUEDE"
   },
-    "gloire_esemoti": {
-    "nom": "GLOIRE ESEMOTI",
-    "table": "TABLE XI"
-  },
-  "ben_lokumu": {
-    "nom": "BEN LOKUMU",
-    "table": "TABLE XI"
-  },
-  "kabisa_esther_elie_lokumu": {
-    "nom": "KABISA ESTHER ET ELIE LOKUMU",
-    "table": "TABLE XI"
-  },
-  "couple_mwanabuana": {
-  "nom": "COUPLE MWANABUANA",
-  "table": "TABLE SANTORIN"
+  "gloire_esemoti": {
+  "nom": "GLOIRE ESEMOTI",
+  "table": "TABLE XI"
+},
+"ben_lokumu": {
+  "nom": "BEN LOKUMU",
+  "table": "TABLE XI"
+},
+"kabisa_esther": {
+  "nom": "KABISA ESTHER",
+  "table": "TABLE XI"
+},
+"elie_lokumu": {
+  "nom": "ELIE LOKUMU",
+  "table": "TABLE XI"
 }
 }
