@@ -854,5 +854,19 @@
 "couple_gracia": {
   "nom": "COUPLE GRACIA",
   "table": "TABLE IX"
+},
+"couple_osakano": {
+  "nom": "COUPLE OSAKANO",
+  "table": "TABLE PAYS-BAS"
+},
+
+"ruth": {
+  "nom": "RUTH",
+  "table": "TABLE MAROC"
+},
+
+"falonne": {
+  "nom": "FALONNE",
+  "table": "TABLE MAROC"
 }
 }
