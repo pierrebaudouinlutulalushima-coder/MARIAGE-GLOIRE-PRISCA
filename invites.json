@@ -868,5 +868,29 @@
 "falonne": {
   "nom": "FALONNE",
   "table": "TABLE MAROC"
+},
+"couple_glodie": {
+  "nom": "COUPLE GLODIE",
+  "table": "TABLE CANADA"
+},
+
+"couple_zho": {
+  "nom": "COUPLE ZHO",
+  "table": "TABLE CANADA"
+},
+
+"mr_merveille_makela": {
+  "nom": "Mr MERVEILLE MAKELA",
+  "table": "TABLE ANGLETERRE"
+},
+
+"mr_richard": {
+  "nom": "Mr. RICHARD",
+  "table": "TABLE LONDRES"
+},
+
+"mr_henry_lungata": {
+  "nom": "Mr HENRY LUNGATA",
+  "table": "TABLE LONDRES"
 }
 }
